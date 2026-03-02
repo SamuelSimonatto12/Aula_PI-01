@@ -2,3 +2,5 @@
 meu primeiro repositório
 
 meu primeiro commit -repositorio local
+
+meu primeiro commit -repositorio remoto
